@@ -25,11 +25,12 @@ Building reliable products with AI, Android, and modern technologies.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Featured Projects
+## Current Focus
 
-- [Assistente-Ia](https://github.com/m69545924-ship-it/Assistente-Ia)
-- [AuraSync](https://github.com/m69545924-ship-it/AuraSync)
-- [JARVIS-Android](https://github.com/m69545924-ship-it/JARVIS-Android)
+- Artificial intelligence
+- Android development
+- Scalable software systems
+- Automation and modern technologies
 
 ## GitHub Stats
 
